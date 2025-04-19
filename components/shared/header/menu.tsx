@@ -26,7 +26,7 @@ const Menu = () => {
           </Link>
         </Button>
       </nav>
-      <nav className='hidden'>
+      <nav className='md:hidden'>
         <Sheet>
           <SheetTrigger className='align-middle'>
             <EllipsisVertical />
